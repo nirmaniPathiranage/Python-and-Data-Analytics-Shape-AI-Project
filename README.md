@@ -4,4 +4,3 @@ Data analysis and come up with conclusions for the dataset of Titanic Survivors 
 
 # Nirmani Jayaprabha Pathiranage
 # nirma2015@gmail.com
-# +94712233126
